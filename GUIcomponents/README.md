@@ -134,7 +134,9 @@ private int generateRandomColor() {
 
 ## OUTPUT
 ![e]( https://user-images.githubusercontent.com/128135244/241406750-59eccc13-90e9-4e0c-9360-6007c82ee610.png)
+##
 ![t](https://user-images.githubusercontent.com/128135244/241406869-8dc521e7-3138-444e-a108-58762564cce0.png)
+
 
 
 
